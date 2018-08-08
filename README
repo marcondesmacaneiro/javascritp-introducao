@@ -1,0 +1,16 @@
+Projeto Introdução a Vanilla JavaScript
+
+para subir o Projeto estamos usando o Vagrant
+
+* Instalar o Vagrant
+* Instalar o VirtualBox
+
+----------------
+vagrant up --para subir o projeto
+
+
+entrar na VM com: vagrant ssh
+
+pegar o IP com ifconfig
+
+e no host acessar IP/site no navegador
